@@ -1,0 +1,8 @@
+print("Carte avant melange: ")
+print(Deck.allCards)
+print("Nombre de cartes : ")
+print(Deck.allCards.count)
+print("Carte apres: ")
+print(Deck.allCards.random())
+print("Nombre de cartes : ")
+print(Deck.allCards.random().count)
